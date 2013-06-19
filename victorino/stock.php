@@ -6,7 +6,7 @@ require_once 'mysql.php';
 class Stock {
 
 	private $id,$name,$sigla,$current,$open,$high,$low,$percent,$urlNasdaq,$country,$updated,$stockExchangeId, $stockExchangeName, $volume;
-	private $stockExchangeObj,$bd;
+	private $stockExchangeObj,$db;
 
 	function __construct($id,$name,$sigla,$stockExchangeId,$stockExchangeName){
 
@@ -15,25 +15,25 @@ class Stock {
 		$this->sigla = $sigla;
 		$this->stockExchangeId = $stockExchangeId;
 		$this->stockExchangeName = $stockExchangeName;
-		$this->load();
 		$this->stockExchangeObj = new StockExchange($stockExchangeId,$stockExchangeName);
 		$this->db = new Mysql();
+		$this->load();
 	}
 
 	public function load(){
 		//Ira carregar do banco, que seria a ultima atualizacao dessa acao
 		//
-		$this->db->query('SELECT * FROM stock;');
-
-		$this->setUrlNasdaq('http://www.nasdaq.com/symbol/fb/real-time');
-		$this->setCurrent('111,11');
-		$this->setOpen('110,00');
-		$this->setHigh('115,11');
-		$this->setlow('109,00');
-		$this->setPercent('0,1%');
-		$this->setCountry('us');
-		$this->setUpdated('2013-06-11 11:11');
-		$this->setVolume('1321213123');
+		$r = $this->db->query('SELECT * FROM stock where id = '.$this->id.';');
+		$r = $r[0];
+		$this->setUrlNasdaq($r['url_nasdaq']);
+		$this->setCurrent($r['current']);
+		$this->setOpen($r['current']);
+		$this->setHigh($r['high']);
+		$this->setlow($r['low']);
+		$this->setPercent($r['percent']);
+		$this->setCountry($r['country']);
+		$this->setUpdated($r['updated']);
+		$this->setVolume($r['volume']);
 	}
 
 	public function save(){

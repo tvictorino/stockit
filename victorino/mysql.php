@@ -1,6 +1,6 @@
 <?
 
-require_once '../config.php';
+require_once 'config/general.php';
 
 class Mysql {
 
@@ -8,7 +8,15 @@ class Mysql {
 	private $con;
 
 	function __construct(){
-		$this->con = new mysqli($db['host'], $db['user'], $db['password'], $db['db'], $db['port']);
+		$db = array(
+			'user'=>'root',
+			'pass'=>'th14g0my',
+			'host'=>'localhost',
+			'port'=>'3306',
+			'db' => 'mydb'
+
+	);
+		$this->con = new mysqli($db['host'], $db['user'], $db['pass'], $db['db'], $db['port']);
 		if ($this->con->connect_errno) {
 		    die("Failed to connect to MySQL: (" . $this->con->connect_errno . ") " . $this->con->connect_error);
 		}
@@ -19,12 +27,14 @@ class Mysql {
 	}
 
 	public function query($sql){
-		if ($result = mysqli_query($sql)) {
-
-			print_r($result);
-
-
+		echo "\nExecuting... ".$sql."\n";
+		if ($result = $this->con->query($sql)) {
+		  $return = array(); 
+		  while ($row = $result->fetch_assoc()) {
+		       array_push($return,$row);
+    		   }
 		    $result->close();
+		    return $return;
 		}else{
 			die("Error: ".$this->con->error);
 		}

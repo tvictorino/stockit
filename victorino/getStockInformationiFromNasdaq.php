@@ -2,16 +2,26 @@
 error_reporting(4);
 //$page = file_get_contents('http://www.nasdaq.com/symbol/aapl/real-time');
 //
-echo "Test";
 require_once 'stock.php';
+require_once 'mysql.php';
 
-$s = new Stock(1,'Facebook','FB','1','Nasdaq');
+$b = new Mysql();
 
-print_r($s->getArrayObject());
+$r = $b->query("SELECT * FROM stock");
+$cr = count($r);
 
-$s->refresh();
+for($i=0;$i<$cr;$i++){
+   $s = new Stock($r[$i]['id'],$r[$i]['name'],$r[$i]['sigla'],$r[$i]['stock_exchange_id'],'Nasdaq');
+   $s->refresh();
+   print_r($s->getArrayObject());
+}
+//$s = new Stock(0,'Facebook','FB','1','Nasdaq');
 
-print_r($s->getArrayObject());
+//print_r($s->getArrayObject());
+
+//$s->refresh();
+
+//print_r($s->getArrayObject());
 
 
 ?>
