@@ -1,11 +1,12 @@
 <?php
 
 require_once 'stockExchange.php';
+require_once 'mysql.php';
 
 class Stock {
 
 	private $id,$name,$sigla,$current,$open,$high,$low,$percent,$urlNasdaq,$country,$updated,$stockExchangeId, $stockExchangeName, $volume;
-	private $stockExchangeObj;
+	private $stockExchangeObj,$bd;
 
 	function __construct($id,$name,$sigla,$stockExchangeId,$stockExchangeName){
 
@@ -16,10 +17,14 @@ class Stock {
 		$this->stockExchangeName = $stockExchangeName;
 		$this->load();
 		$this->stockExchangeObj = new StockExchange($stockExchangeId,$stockExchangeName);
+		$this->db = new Mysql();
 	}
 
 	public function load(){
 		//Ira carregar do banco, que seria a ultima atualizacao dessa acao
+		//
+		$this->db->query('SELECT * FROM stock;');
+
 		$this->setUrlNasdaq('http://www.nasdaq.com/symbol/fb/real-time');
 		$this->setCurrent('111,11');
 		$this->setOpen('110,00');
@@ -54,7 +59,8 @@ class Stock {
 				'low'=>$this->low,
 				'percent'=>$this->percent,
 				'volume' => $this->volume,
-				'country'=>$this->country
+				'country'=>$this->country,
+				'updated'=>$this->updated
 			);
 		return $arr;
 	}
