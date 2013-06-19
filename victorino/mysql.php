@@ -2,7 +2,7 @@
 
 require_once '../config.php';
 
-class Mysql(){
+class Mysql {
 
 
 	private $con;
