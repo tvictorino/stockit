@@ -4,7 +4,7 @@ error_reporting(4);
 //
 require_once 'stock.php';
 
-$s = new Stock($id,$name,$sigla,$stockExchangeId,$stockExchangeName);
+$s = new Stock(1,'Facebook','FB','1','Nasdaq');
 
 print_r($s->getArrayObject());
 
