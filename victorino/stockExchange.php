@@ -35,7 +35,7 @@ class StockExchange{
 	}
 
 	private function getStockInformationFromNasdaq(Stock $stock){
-		$page = file_get_contents($stock->urlNasdaq);
+		$page = file_get_contents($stock->getUrlNasdaq());
 		//Fazer o tratamento de erro, caso a URL retorne errado
 		$doc = new DomDocument;
 
@@ -53,5 +53,5 @@ class StockExchange{
 
 
 	}
-
+}
 ?>

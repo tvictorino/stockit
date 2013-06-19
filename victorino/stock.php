@@ -15,7 +15,7 @@ class Stock {
 		$this->stockExchangeId = $stockExchangeId;
 		$this->stockExchangeName = $stockExchangeName;
 		$this->load();
-		$this->$stockExchangeObj = new StockExchange($stockExchangeId,$stockExchangeName);
+		$this->stockExchangeObj = new StockExchange($stockExchangeId,$stockExchangeName);
 	}
 
 	public function load(){
@@ -36,12 +36,12 @@ class Stock {
 	}
 
 	public function refresh(){
-		$this->$stockExchangeObj->getStockInformation($this);
+		$this->stockExchangeObj->getStockInformation($this);
 	}
 
 
 	public function getArrayObject(){
-		$json = array(
+		$arr = array(
 				'id'=>$this->id,
 				'name'=>$this->name,
 				'sigla'=>$this->sigla,
@@ -56,6 +56,7 @@ class Stock {
 				'volume' => $this->volume,
 				'country'=>$this->country
 			);
+		return $arr;
 	}
 
 	/**

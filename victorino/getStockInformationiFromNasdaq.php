@@ -2,6 +2,7 @@
 error_reporting(4);
 //$page = file_get_contents('http://www.nasdaq.com/symbol/aapl/real-time');
 //
+echo "Test";
 require_once 'stock.php';
 
 $s = new Stock(1,'Facebook','FB','1','Nasdaq');
