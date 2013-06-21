@@ -39,6 +39,15 @@ class Mysql {
 			die("Error: ".$this->con->error);
 		}
 	}
+
+	public function execute($sql){
+                echo "\nExecuting... ".$sql."\n";
+                if ($result = $this->con->query($sql)) {
+                    return true;;
+                }else{
+                        die("Error: ".$this->con->error);
+                }
+        }
 }
 
 ?>

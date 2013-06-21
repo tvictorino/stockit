@@ -1,5 +1,5 @@
 <?php
-error_reporting(4);
+//error_reporting(4);
 //$page = file_get_contents('http://www.nasdaq.com/symbol/aapl/real-time');
 //
 require_once 'stock.php';
@@ -13,7 +13,8 @@ $cr = count($r);
 for($i=0;$i<$cr;$i++){
    $s = new Stock($r[$i]['id'],$r[$i]['name'],$r[$i]['sigla'],$r[$i]['stock_exchange_id'],'Nasdaq');
    $s->refresh();
-   print_r($s->getArrayObject());
+   $s->save();
+   //print_r($s->getArrayObject());
 }
 //$s = new Stock(0,'Facebook','FB','1','Nasdaq');
 

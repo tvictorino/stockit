@@ -37,10 +37,10 @@ class Stock {
 	}
 
 	public function save(){
-		$sql = "UPDATE stock SET ('current','high','low','percent','country','updated','volume') VALUES ('".$this->current."','".$this->high."','".$this->low."','".$this->percent."','".$this->country."','".$this->updated."','".$this->volume."') WHERE id = ".$this->id;
+		$sql = "UPDATE stock SET current='".$this->current."',high='".$this->high."',low='".$this->low."',percent='".$this->percent."',open='".$this->open."',country='".$this->country."',updated=NOW(),volume='".$this->volume."' WHERE id = ".$this->id;
 
-		echo $sql;
-		//$this->db->query($sql);
+		//echo $sql;
+		$this->db->execute($sql);
 	}
 
 	public function refresh(){
