@@ -1,4 +1,4 @@
-<?
+<?php
 
 require_once 'config/general.php';
 
@@ -9,9 +9,12 @@ class Mysql {
 
 	function __construct(){
 		$db = array(
-			'user'=>'root',
-			'pass'=>'th14g0my',
-			'host'=>'localhost',
+			//'user'=>'root',
+			//'pass'=>'th14g0my',
+			//'host'=>'localhost',
+			'user'=>'stockit',
+			'pass'=>'123456',
+			'host'=>'54.214.49.175',
 			'port'=>'3306',
 			'db' => 'mydb'
 
@@ -29,7 +32,7 @@ class Mysql {
 	public function query($sql){
 		echo "\nExecuting... ".$sql."\n";
 		if ($result = $this->con->query($sql)) {
-		  $return = array(); 
+		  $return = array();
 		  while ($row = $result->fetch_assoc()) {
 		       array_push($return,$row);
     		   }
