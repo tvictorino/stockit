@@ -218,3 +218,1062 @@
 [24-Jun-2013 16:49:47 UTC] PHP Warning:  StockExchange::getStockInformationFromBovespa(): Node no longer exists in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 78
 [24-Jun-2013 16:49:47 UTC] PHP Warning:  StockExchange::getStockInformationFromBovespa(): Node no longer exists in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 79
 [24-Jun-2013 16:49:47 UTC] PHP Warning:  StockExchange::getStockInformationFromBovespa(): Node no longer exists in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 79
+[25-Jun-2013 14:50:10 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 92
+[25-Jun-2013 14:50:10 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 92
+[25-Jun-2013 14:50:10 UTC] PHP Fatal error:  Call to undefined method DOMElement::item() in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 94
+[25-Jun-2013 14:52:04 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 92
+[25-Jun-2013 14:52:04 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 92
+[25-Jun-2013 14:55:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 79
+[25-Jun-2013 14:55:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 79
+[25-Jun-2013 14:56:42 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 79
+[25-Jun-2013 14:56:42 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 79
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  Missing argument 1 for Stock::setCurrent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 72 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 83
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 84
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  Missing argument 1 for Stock::setOpen(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 73 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 86
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 87
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  Missing argument 1 for Stock::setHigh(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 74 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 89
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 90
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  Missing argument 1 for Stock::setlow(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 75 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 92
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 93
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  Missing argument 1 for Stock::setPercent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 76 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 95
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 96
+[25-Jun-2013 16:03:47 UTC] PHP Warning:  Missing argument 1 for Stock::setVolume(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 77 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 113
+[25-Jun-2013 16:03:47 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 114
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1449 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  Missing argument 1 for Stock::setCurrent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 72 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 83
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 84
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  Missing argument 1 for Stock::setOpen(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 73 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 86
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 87
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  Missing argument 1 for Stock::setHigh(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 74 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 89
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 90
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  Missing argument 1 for Stock::setlow(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 75 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 92
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 93
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  Missing argument 1 for Stock::setPercent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 76 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 95
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 96
+[25-Jun-2013 16:03:50 UTC] PHP Warning:  Missing argument 1 for Stock::setVolume(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 77 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 113
+[25-Jun-2013 16:03:50 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 114
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1441 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  Missing argument 1 for Stock::setCurrent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 72 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 83
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 84
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  Missing argument 1 for Stock::setOpen(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 73 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 86
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 87
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  Missing argument 1 for Stock::setHigh(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 74 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 89
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 90
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  Missing argument 1 for Stock::setlow(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 75 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 92
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 93
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  Missing argument 1 for Stock::setPercent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 76 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 95
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 96
+[25-Jun-2013 16:03:52 UTC] PHP Warning:  Missing argument 1 for Stock::setVolume(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 77 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 113
+[25-Jun-2013 16:03:52 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 114
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1433 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  Missing argument 1 for Stock::setCurrent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 72 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 83
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 84
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  Missing argument 1 for Stock::setOpen(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 73 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 86
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 87
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  Missing argument 1 for Stock::setHigh(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 74 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 89
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 90
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  Missing argument 1 for Stock::setlow(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 75 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 92
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 93
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  Missing argument 1 for Stock::setPercent(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 76 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 95
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 96
+[25-Jun-2013 16:03:55 UTC] PHP Warning:  Missing argument 1 for Stock::setVolume(), called in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 77 and defined in /Users/tvictorino/www/stockit/victorino/stock.php on line 113
+[25-Jun-2013 16:03:55 UTC] PHP Notice:  Undefined variable: value in /Users/tvictorino/www/stockit/victorino/stock.php on line 114
+[25-Jun-2013 16:04:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 103
+[25-Jun-2013 16:04:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 103
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:48 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1449 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:50 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1441 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:53 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1433 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:04:55 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:05:41 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 103
+[25-Jun-2013 16:05:41 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 103
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:12 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1449 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:14 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1441 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:17 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1433 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:06:19 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 70
+[25-Jun-2013 16:07:04 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 103
+[25-Jun-2013 16:07:04 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 103
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:38 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1449 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:40 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1441 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:43 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1433 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:08:46 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:09:31 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 102
+[25-Jun-2013 16:09:31 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 102
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:11 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1449 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:13 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:48 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1440 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1448 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1449 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:50 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1424 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1441 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:52 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 283 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 302 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 305 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 707 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget-sector-wrap already defined in Entity, line: 720 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 764 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 766 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 771 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : style in Entity, line: 773 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID mycarousel already defined in Entity, line: 811 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 930 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 931 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 966 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 967 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 984 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 1043 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1098 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): ID qwidget_markettimedate already defined in Entity, line: 1190 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1213 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1214 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1215 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1216 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1217 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : script in Entity, line: 1218 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 1432 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 1433 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 1520 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : a in Entity, line: 1531 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1539 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2004 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2006 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2008 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2009 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2011 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : b in Entity, line: 2014 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:10:55 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 69
+[25-Jun-2013 16:11:59 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 71
+[25-Jun-2013 16:12:01 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 71
+[25-Jun-2013 16:12:04 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 71
+[25-Jun-2013 16:12:06 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 71
+[25-Jun-2013 16:19:08 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 49
+[25-Jun-2013 16:19:11 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 49
+[25-Jun-2013 16:19:14 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 49
+[25-Jun-2013 16:19:16 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 49
+[25-Jun-2013 16:19:58 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 50
+[25-Jun-2013 16:20:01 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 50
+[25-Jun-2013 16:20:04 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 50
+[25-Jun-2013 16:20:07 UTC] PHP Notice:  Undefined offset: 1 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 50
+[25-Jun-2013 16:21:23 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 118
+[25-Jun-2013 16:21:23 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 118
+[25-Jun-2013 16:22:37 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:22:40 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:22:42 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:22:44 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:23:25 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:23:25 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:24:13 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:24:15 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:24:18 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:24:20 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:25:05 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:25:05 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:26:49 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:26:52 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:26:54 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:26:57 UTC] PHP Notice:  A non well formed numeric value encountered in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 45
+[25-Jun-2013 16:27:43 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:27:43 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:33:05 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:33:05 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:37:07 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[25-Jun-2013 16:37:07 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117

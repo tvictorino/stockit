@@ -22,16 +22,33 @@ class StockExchange{
 	public function getStockInformation(Stock $stock){
 			switch ($stock->getStockExchangeId()) {
 				case 1: //nasdaq
-				    //$this->getStockInformationFromNasdaq($stock);
+				    $this->getStockInformationFromNasdaq($stock);
 					break;
 				case 2: //bovespa
 				        $this->getStockInformationFromBovespa($stock);
-					return;
+					break;
+				case 3:
+						$this->getStockInformationFromDolar($stock);
 					break;
 				default:
 					return false;
 					break;
 			}
+	}
+	// 1 - American, 2 - European
+	private function moneyFormat($value, $type = 2){
+		if($type == 1){
+			setlocale(LC_MONETARY, 'en_US');
+			return money_format('%.2n', $value);
+		}else if ($type == 2) {
+			setlocale(LC_MONETARY, 'it_IT');
+			$converted = money_format('%.2n', $value);
+			$converted = explode(' ',$converted);
+			return $converted[1];
+		}else{
+			return false;
+		}
+
 	}
 
 	private function getStockInformationFromNasdaq(Stock $stock){
@@ -40,38 +57,48 @@ class StockExchange{
 		$doc = new DomDocument;
 
 		// We need to validate our document before refering to the id
-		$doc->loadHTML($page);
+		@$doc->loadHTML($page);
 
-		$stock->setCurrent($doc->getElementById('quotes_content_left__LastSale')->nodeValue);
-		$stock->setOpen($doc->getElementById('quotes_content_left__PreviousClose')->nodeValue);
-		$stock->setHigh($doc->getElementById('quotes_content_left__TodaysHigh')->nodeValue);
-		$stock->setlow($doc->getElementById('quotes_content_left__TodaysLow')->nodeValue);
-		$stock->setPercent($doc->getElementById('quotes_content_left__PctChange')->nodeValue);
-		//$stock->setUpdated(date('Y-d-m H:i'));
-		$stock->setVolume($doc->getElementById('quotes_content_left__Volume')->nodeValue);
+		$current = $doc->getElementById('quotes_content_left__LastSale')->nodeValue;
+		$current = $this->moneyFormat($current);
+
+		$open = $doc->getElementById('quotes_content_left__PreviousClose')->nodeValue;
+		$open = $this->moneyFormat($open);
+
+		$high = $doc->getElementById('quotes_content_left__TodaysHigh')->nodeValue;
+		$high = $this->moneyFormat($high);
+
+		$low = $doc->getElementById('quotes_content_left__TodaysLow')->nodeValue;
+		$low = $this->moneyFormat($low);
+
+		$percent = $doc->getElementById('quotes_content_left__PctChange')->nodeValue;
+		$percent = str_replace('%','',$percent);
+		$percent = $this->moneyFormat($percent);
+		$signal  = '';
+		if($current < $open){
+			$signal = '-';
+		}
+		$percent = $signal.$percent;
+
+		$volume = $doc->getElementById('quotes_content_left__Volume')->nodeValue;
+		$volume = str_replace(',','.',$volume);
+
+		$stock->setCurrent($current);
+		$stock->setOpen($open);
+		$stock->setHigh($high);
+		$stock->setlow($low);
+		$stock->setPercent($percent);
+		$stock->setVolume($volume);
 
 
 
 	}
 
 	private function getStockInformationFromBovespa(Stock $stock){
-		//$page = file_get_contents($stock->getUrlNasdaq());
-		//Fazer o tratamento de erro, caso a URL retorne errado
+
 	    $xml = simplexml_load_file($stock->getUrlNasdaq());
 	    $attrs = $xml->Papel->attributes();
-	    print_r($attrs);
-	    echo $attrs->Abertura;
-	// 	$doc = new DomDocument;
 
-	// 	// We need to validate our document before refering to the id
-	// 	echo $stock->getUrlNasdaq();
-	// 	$doc->loadHTML($stock->getUrlNasdaq());
-	// 	$comportamento = $doc->getElementsByTagName('ComportamentoPapeis');
-	// echo "\n\n Quantidade: ".$comportamento->length;
-	// 	echo "\n\n".$comportamento->item(0)->nodeName."\n\n";
-		//$papel = $comportamento->item(0)->getElementsByTagName('Papel');
-
-		//echo "\n\n\nValor: ".$papel->item(0)->nodeValue."\n\n\n";//getAttribute('Codigo');
 		$stock->setCurrent($attrs->Ultimo);
 		$stock->setOpen($attrs->Abertura);
 		$stock->setHigh($attrs->Maximo);
@@ -79,6 +106,20 @@ class StockExchange{
 		$stock->setPercent($attrs->Oscilacao);
 		//$stock->setUpdated(date('Y-d-m H:i'));
 		$stock->setVolume(0);
+	}
+
+		private function getStockInformationFromDolar(Stock $stock){
+		$page = file_get_contents($stock->getUrlNasdaq());
+		//Fazer o tratamento de erro, caso a URL retorne errado
+		$doc = new DomDocument;
+
+		// We need to validate our document before refering to the id
+		$doc->loadHTML($page);
+
+		$span = $doc->getElementById('currency_converter_result')->getElementsByTagName('span')->item(0);
+		$valor = explode(' ',$span->nodeValue);
+		$valor = $this->moneyFormat($valor[0]);
+		$stock->setCurrent($valor);
 	}
 
 }

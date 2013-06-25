@@ -27,7 +27,7 @@ class Stock {
 		$r = $r[0];
 		$this->setUrlNasdaq($r['url_nasdaq']);
 		$this->setCurrent($r['current']);
-		$this->setOpen($r['current']);
+		$this->setOpen($r['open']);
 		$this->setHigh($r['high']);
 		$this->setlow($r['low']);
 		$this->setPercent($r['percent']);
