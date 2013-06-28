@@ -1,0 +1,14 @@
+- Colocar o campo 'value' na tabela operation com o valor padrao null.
+
+Fase 1
+ - Pegar todas as informacoes das acoes disponiveis
+
+ Fase 2
+ - Criar as operacoes e regras de negocio dessas negociacoes
+ 	- A operacao tem que ser aceitavel para funcionar
+ 	- Terei que criar um serviço que vai analisar essas operacoes a cada 5 minutos
+ 	- Só vai ser aceitável se o valor vendido for igual ao de mercado
+ 		- Se for compra, o valor por ser acima, assim debita da conta dele o valor e compra acoes
+ 		- Se for venda, o valor pode ser abaixo, ai é contado o valor que ele ofereceu, multiplica pela quantidade de acoes vendidas e volta pra conta dele.
+
+ 	- Mudar o campo da tabela users de dolars para dollars

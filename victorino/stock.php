@@ -8,7 +8,7 @@ class Stock {
 	private $id,$name,$sigla,$current,$open,$high,$low,$percent,$urlNasdaq,$country,$updated,$stockExchangeId, $stockExchangeName, $volume;
 	private $stockExchangeObj,$db;
 
-	function __construct($id,$name,$sigla,$stockExchangeId,$stockExchangeName){
+	function __construct($id,$name = null,$sigla = null,$stockExchangeId = null,$stockExchangeName = null){
 
 		$this->id = $id;
 		$this->name = $name;
@@ -23,7 +23,7 @@ class Stock {
 	public function load(){
 		//Ira carregar do banco, que seria a ultima atualizacao dessa acao
 		//
-		$r = $this->db->query('SELECT * FROM stock where id = '.$this->id.';');
+		$r = $this->db->query('SELECT url_nasdaq,open,high,percent,country,updated,s.name,sigla,stock_exchange_id, se.name as se_name FROM stock as s, stock_exchange as se where s.id = '.$this->id.' ans s.stock_exchange_id = se.id;');
 		$r = $r[0];
 		$this->setUrlNasdaq($r['url_nasdaq']);
 		$this->setCurrent($r['current']);
@@ -34,6 +34,10 @@ class Stock {
 		$this->setCountry($r['country']);
 		$this->setUpdated($r['updated']);
 		$this->setVolume($r['volume']);
+		$this->setName($r['name']);
+		$this->setSigla($r['sigla']);
+		$this->setStockExchangeId($r['stock_exchange_id']);
+		$this->setStockExchangeName($r['se_name']);
 	}
 
 	public function save(){
