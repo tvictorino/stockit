@@ -1277,3 +1277,81 @@
 [25-Jun-2013 16:33:05 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
 [25-Jun-2013 16:37:07 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
 [25-Jun-2013 16:37:07 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/stockExchange.php on line 117
+[29-Jun-2013 18:02:35 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_9sb30lvm364fdcrcc9a50pg7b2, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:02:35 UTC] PHP Warning:  Unknown: Cannot send session cookie - headers already sent in Unknown on line 0
+[29-Jun-2013 18:02:35 UTC] PHP Warning:  Unknown: Cannot send session cache limiter - headers already sent in Unknown on line 0
+[29-Jun-2013 18:02:36 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:02:36 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:02:36 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_9sb30lvm364fdcrcc9a50pg7b2, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:02:36 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/Users/tvictorino/www/Git/010Web/data/sessions) in Unknown on line 0
+[29-Jun-2013 18:03:10 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_hj7peldn5c0hqu1puaq67cnh94, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:03:10 UTC] PHP Warning:  Unknown: Cannot send session cookie - headers already sent in Unknown on line 0
+[29-Jun-2013 18:03:10 UTC] PHP Warning:  Unknown: Cannot send session cache limiter - headers already sent in Unknown on line 0
+[29-Jun-2013 18:03:11 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:03:11 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:03:11 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_hj7peldn5c0hqu1puaq67cnh94, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:03:11 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/Users/tvictorino/www/Git/010Web/data/sessions) in Unknown on line 0
+[29-Jun-2013 18:03:17 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_te15ubg09potns7qn2emudjas6, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:03:17 UTC] PHP Warning:  Unknown: Cannot send session cookie - headers already sent in Unknown on line 0
+[29-Jun-2013 18:03:17 UTC] PHP Warning:  Unknown: Cannot send session cache limiter - headers already sent in Unknown on line 0
+[29-Jun-2013 18:03:18 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:03:18 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:03:18 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_te15ubg09potns7qn2emudjas6, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:03:18 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/Users/tvictorino/www/Git/010Web/data/sessions) in Unknown on line 0
+[29-Jun-2013 18:04:39 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_dp2o2mq4upjrjhbn5bctc6k650, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:04:39 UTC] PHP Warning:  Unknown: Cannot send session cookie - headers already sent in Unknown on line 0
+[29-Jun-2013 18:04:39 UTC] PHP Warning:  Unknown: Cannot send session cache limiter - headers already sent in Unknown on line 0
+[29-Jun-2013 18:04:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:04:40 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:04:40 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_dp2o2mq4upjrjhbn5bctc6k650, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:04:40 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/Users/tvictorino/www/Git/010Web/data/sessions) in Unknown on line 0
+[29-Jun-2013 18:04:46 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_i98aclnmlf7sbnirm23omu0t74, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:04:46 UTC] PHP Warning:  Unknown: Cannot send session cookie - headers already sent in Unknown on line 0
+[29-Jun-2013 18:04:46 UTC] PHP Warning:  Unknown: Cannot send session cache limiter - headers already sent in Unknown on line 0
+[29-Jun-2013 18:04:47 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:04:47 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:04:47 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_i98aclnmlf7sbnirm23omu0t74, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:04:47 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/Users/tvictorino/www/Git/010Web/data/sessions) in Unknown on line 0
+[29-Jun-2013 18:27:32 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_07ssjgcgg4o9ee5kj1jpc5aem1, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:27:32 UTC] PHP Warning:  Unknown: Cannot send session cookie - headers already sent in Unknown on line 0
+[29-Jun-2013 18:27:32 UTC] PHP Warning:  Unknown: Cannot send session cache limiter - headers already sent in Unknown on line 0
+[29-Jun-2013 18:27:33 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:27:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:27:33 UTC] PHP Warning:  Unknown: open(/Users/tvictorino/www/Git/010Web/data/sessions/sess_07ssjgcgg4o9ee5kj1jpc5aem1, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[29-Jun-2013 18:27:33 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/Users/tvictorino/www/Git/010Web/data/sessions) in Unknown on line 0
+[29-Jun-2013 18:28:24 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:28:24 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 29
+[29-Jun-2013 18:29:13 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 23
+[29-Jun-2013 18:29:13 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 30
+[29-Jun-2013 18:30:46 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 23
+[29-Jun-2013 18:30:46 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 30
+[29-Jun-2013 18:32:01 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:32:01 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:32:59 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:32:59 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:34:19 UTC] PHP Fatal error:  Class 'mysqli_connect' not found in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:34:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:34:29 UTC] PHP Notice:  Trying to get property of non-object in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:34:29 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 33
+[29-Jun-2013 18:34:59 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:34:59 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:35:29 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:38:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:39:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:41:15 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:43:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:43:03 UTC] PHP Notice:  Trying to get property of non-object in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 22
+[29-Jun-2013 18:43:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 33
+[29-Jun-2013 18:43:03 UTC] PHP Notice:  Trying to get property of non-object in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 41
+[29-Jun-2013 18:43:03 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:48:09 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:48:10 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:49:03 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:49:03 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:50:21 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:50:21 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:51:56 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:51:56 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 18:56:22 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/refreshStocks.php on line 5
+[29-Jun-2013 18:56:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 18:56:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
