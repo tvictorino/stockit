@@ -1355,3 +1355,268 @@
 [29-Jun-2013 18:56:22 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/refreshStocks.php on line 5
 [29-Jun-2013 18:56:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
 [29-Jun-2013 18:56:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 19:06:12 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 21
+[29-Jun-2013 19:06:12 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 28
+[29-Jun-2013 19:08:47 UTC] PHP Warning:  require_once(../../config/general.php): failed to open stream: No such file or directory in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 3
+[29-Jun-2013 19:08:47 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config/general.php' (include_path='.:/Users/tvictorino/pear/share/pear') in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 3
+[29-Jun-2013 19:08:56 UTC] PHP Fatal error:  Class 'Config' not found in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 11
+[29-Jun-2013 19:09:21 UTC] PHP Fatal error:  Class 'Config' not found in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 11
+[29-Jun-2013 19:11:26 UTC] PHP Fatal error:  Class 'Config' not found in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 11
+[29-Jun-2013 19:12:01 UTC] PHP Fatal error:  Class 'Config' not found in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 11
+[29-Jun-2013 19:12:05 UTC] PHP Fatal error:  Class 'Config' not found in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 11
+[29-Jun-2013 19:12:19 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 13
+[29-Jun-2013 19:12:19 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 20
+[29-Jun-2013 19:12:37 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 13
+[29-Jun-2013 19:12:37 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 20
+[29-Jun-2013 19:12:57 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 13
+[29-Jun-2013 19:12:57 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 20
+[29-Jun-2013 19:13:53 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 13
+[29-Jun-2013 19:13:53 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 20
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'stockit'@'186.207.212.166' (using password: YES) in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 13
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:03 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 23
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:15:48 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:16:12 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:21:03 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:22:23 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:23:06 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:54 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:28:59 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Property access is not allowed yet in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:29:01 UTC] PHP Warning:  var_dump(): Couldn't fetch mysqli in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 15
+[29-Jun-2013 19:31:33 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:33 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:33 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:31:38 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:38 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:38 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:31:45 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:45 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:45 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:31:49 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:49 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:49 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:31:55 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:55 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:55 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:31:57 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:57 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:57 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:31:59 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:31:59 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:31:59 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:02 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:02 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:02 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:04 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:04 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:04 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:06 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:06 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:06 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:08 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:08 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:08 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:11 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:11 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:11 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:16 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:16 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:16 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:18 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:18 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:18 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:20 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:20 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:20 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:23 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:23 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:23 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:25 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:25 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:25 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:27 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:27 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:27 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:29 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:29 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:29 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:31 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:31 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:31 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:33 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:33 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:33 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:35 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:32:35 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:32:35 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:32:36 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/class/stockExchange.php on line 117
+[29-Jun-2013 19:32:36 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/class/stockExchange.php on line 117
+[29-Jun-2013 19:42:54 UTC] PHP Fatal error:  Cannot redeclare Operation::$stock in /Users/tvictorino/www/stockit/victorino/class/operation.php on line 10
+[29-Jun-2013 19:49:57 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:49:57 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:49:57 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:49:57 UTC] PHP Notice:  Undefined index: current in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 29
+[29-Jun-2013 19:49:57 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:49:57 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:49:57 UTC] PHP Fatal error:  Call to undefined method Operation::stock() in /Users/tvictorino/www/stockit/victorino/makeDeal.php on line 18
+[29-Jun-2013 19:51:18 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:51:18 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:51:19 UTC] PHP Notice:  Undefined index: low in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 32
+[29-Jun-2013 19:51:19 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:51:19 UTC] PHP Fatal error:  Call to undefined method Operation::stock() in /Users/tvictorino/www/stockit/victorino/makeDeal.php on line 18
+[29-Jun-2013 19:51:36 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:51:36 UTC] PHP Notice:  Undefined index: volume in /Users/tvictorino/www/stockit/victorino/class/stock.php on line 36
+[29-Jun-2013 19:51:36 UTC] PHP Fatal error:  Call to undefined method Operation::stock() in /Users/tvictorino/www/stockit/victorino/makeDeal.php on line 18
+[29-Jun-2013 19:51:50 UTC] PHP Fatal error:  Call to undefined method Operation::stock() in /Users/tvictorino/www/stockit/victorino/makeDeal.php on line 18
+[29-Jun-2013 19:53:00 UTC] PHP Notice:  Undefined property: Operation::$getBuy in /Users/tvictorino/www/stockit/victorino/class/dealer.php on line 31
+[29-Jun-2013 19:53:00 UTC] PHP Notice:  Undefined property: Operation::$Qtd in /Users/tvictorino/www/stockit/victorino/class/operation.php on line 33
+[29-Jun-2013 19:53:00 UTC] PHP Catchable fatal error:  Argument 1 passed to Bank::credit() must be an instance of User, string given, called in /Users/tvictorino/www/stockit/victorino/class/dealer.php on line 48 and defined in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 20
+[29-Jun-2013 19:53:34 UTC] PHP Notice:  Undefined property: Operation::$Qtd in /Users/tvictorino/www/stockit/victorino/class/operation.php on line 33
+[29-Jun-2013 19:53:34 UTC] PHP Catchable fatal error:  Argument 1 passed to Bank::credit() must be an instance of User, string given, called in /Users/tvictorino/www/stockit/victorino/class/dealer.php on line 48 and defined in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 20
+[29-Jun-2013 19:53:54 UTC] PHP Catchable fatal error:  Argument 1 passed to Bank::credit() must be an instance of User, string given, called in /Users/tvictorino/www/stockit/victorino/class/dealer.php on line 48 and defined in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 20
+[29-Jun-2013 19:54:36 UTC] PHP Catchable fatal error:  Argument 1 passed to Bank::credit() must be an instance of User, string given, called in /Users/tvictorino/www/stockit/victorino/class/dealer.php on line 48 and defined in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 20
+[29-Jun-2013 19:58:10 UTC] PHP Notice:  Undefined variable: db in /Users/tvictorino/www/stockit/victorino/class/user.php on line 18
+[29-Jun-2013 19:58:10 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /Users/tvictorino/www/stockit/victorino/class/user.php on line 18
+[29-Jun-2013 19:59:08 UTC] PHP Notice:  Undefined variable: db in /Users/tvictorino/www/stockit/victorino/class/user.php on line 18
+[29-Jun-2013 19:59:08 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /Users/tvictorino/www/stockit/victorino/class/user.php on line 18
+[29-Jun-2013 19:59:33 UTC] PHP Notice:  Undefined variable: sql in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 22
+[29-Jun-2013 19:59:33 UTC] PHP Warning:  mysqli::query(): Empty query in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 24
+[29-Jun-2013 20:00:24 UTC] PHP Notice:  Undefined variable: sql in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 22
+[29-Jun-2013 20:00:24 UTC] PHP Warning:  mysqli::query(): Empty query in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 24
+[29-Jun-2013 20:12:06 UTC] PHP Notice:  Undefined property: User::$getName in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 21
+[29-Jun-2013 20:20:26 UTC] PHP Notice:  Undefined property: User::$getName in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 21
+[29-Jun-2013 20:21:40 UTC] PHP Notice:  Undefined property: User::$getName in /Users/tvictorino/www/stockit/victorino/class/bank.php on line 21
+[29-Jun-2013 20:37:53 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/class/stockExchange.php on line 117
+[29-Jun-2013 20:37:53 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/class/stockExchange.php on line 117
+[29-Jun-2013 20:39:51 UTC] PHP Warning:  DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 5 in /Users/tvictorino/www/stockit/victorino/class/stockExchange.php on line 117
+[29-Jun-2013 20:39:51 UTC] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 219 in /Users/tvictorino/www/stockit/victorino/class/stockExchange.php on line 117
+[29-Jun-2013 20:51:42 UTC] PHP Notice:  Undefined property: User::$dollar in /Users/tvictorino/www/stockit/victorino/class/user.php on line 63
+[29-Jun-2013 20:53:34 UTC] PHP Notice:  Undefined property: User::$dollar in /Users/tvictorino/www/stockit/victorino/class/user.php on line 63
+[29-Jun-2013 21:00:01 UTC] PHP Notice:  Undefined property: User::$dollar in /Users/tvictorino/www/stockit/victorino/class/user.php on line 63
+[10-Sep-2013 17:45:54 UTC] PHP Notice:  Undefined index: cmd in /Users/tvictorino/www/stockit/public/main.php on line 2

@@ -1,31 +1,22 @@
 <?php
 
+require_once 'config/general.php';
+
 class Mysql {
 
 
 	private $con;
 
 	function __construct(){
-		$db = array(
-			//'user'=>'root',
-			//'pass'=>'th14g0my',
-			//'host'=>'localhost',
-			'user'=>'stockit',
-			'pass'=>'123456',
-			'host'=>'54.214.49.175',
-			'port'=>'3306',
-			'db' => 'mydb'
-
-	);
-		print_r($db);
-		$this->con =  new mysqli($db['host'], $db['user'], $db['pass'], $db['db'], $db['port']);
+		$db = Config::dbConfig();
+		$this->con =  @new mysqli($db['host'], $db['user'], $db['pass'], $db['db'], $db['port']);
 		if ($this->con->connect_errno) {
-		    die("Failed to connect to MySQL: (" . $this->con->connect_errno . ") " . $this->con->connect_error);
+		    die("Failed to connect to MySQL: (" . $this->con->connect_errno . ") " . $this->con->connect_error."\n");
 		}
 	}
 
 	function __destruct(){
-		$this->con->close();
+		@$this->con->close();
 	}
 
 	public function query($sql){

@@ -2,12 +2,12 @@
 
 require_once 'mysql.php';
 require_once 'stock.php';
+require_once 'user.php';
 
 class Operation {
 
 	private $id, $qtd, $user, $stock, $buy, $value;
 	private $bd;
-	private $stock;
 
 
 	//Se o valor for null, vender ou comprar pelo valor de mercado
@@ -19,19 +19,24 @@ class Operation {
 		$this->buy = $buy;
 		$this->value = $value;
 		$this->getMarketStockInformation();
+		$this->getObjectUser();
 	}
 
 	private function getMarketStockInformation(){
 		$stock = new Stock($this->id);
-		$stock->load();
 		$this->stock = $stock;
+	}
+
+	private function getObjectUser(){
+		$user = new User($this->user);
+		$this->user = $user;
 	}
 
 	public function getId(){
 		return $this->id;
 	}
 	public function getQtd(){
-		return $this->Qtd;
+		return $this->qtd;
 	}
 	public function getUser(){
 		return $this->user;

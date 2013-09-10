@@ -23,7 +23,7 @@ class Stock {
 	public function load(){
 		//Ira carregar do banco, que seria a ultima atualizacao dessa acao
 		//
-		$r = $this->db->query('SELECT url_nasdaq,open,high,percent,country,updated,s.name,sigla,stock_exchange_id, se.name as se_name FROM stock as s, stock_exchange as se where s.id = '.$this->id.' ans s.stock_exchange_id = se.id;');
+		$r = $this->db->query('SELECT url_nasdaq,current,low,volume,open,high,percent,country,updated,s.name,sigla,stock_exchange_id, se.name as se_name FROM stock as s, stock_exchange as se where s.id = '.$this->id.' and s.stock_exchange_id = se.id;');
 		$r = $r[0];
 		$this->setUrlNasdaq($r['url_nasdaq']);
 		$this->setCurrent($r['current']);

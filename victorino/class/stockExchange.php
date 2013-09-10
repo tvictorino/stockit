@@ -1,6 +1,7 @@
 <?php
 
 require_once 'stock.php';
+require_once 'bank.php';
 
 class StockExchange{
 	private $id,$name;
@@ -35,21 +36,7 @@ class StockExchange{
 					break;
 			}
 	}
-	// 1 - American, 2 - European
-	private function moneyFormat($value, $type = 2){
-		if($type == 1){
-			setlocale(LC_MONETARY, 'en_US');
-			return money_format('%.2n', $value);
-		}else if ($type == 2) {
-			setlocale(LC_MONETARY, 'it_IT');
-			$converted = money_format('%.2n', $value);
-			$converted = explode(' ',$converted);
-			return $converted[1];
-		}else{
-			return false;
-		}
 
-	}
 
 	private function getStockInformationFromNasdaq(Stock $stock){
 		$page = file_get_contents($stock->getUrlNasdaq());
@@ -60,20 +47,20 @@ class StockExchange{
 		@$doc->loadHTML($page);
 
 		$current = $doc->getElementById('quotes_content_left__LastSale')->nodeValue;
-		$current = $this->moneyFormat($current);
+		$current = Bank::moneyFormat($current);
 
 		$open = $doc->getElementById('quotes_content_left__PreviousClose')->nodeValue;
-		$open = $this->moneyFormat($open);
+		$open = Bank::moneyFormat($open);
 
 		$high = $doc->getElementById('quotes_content_left__TodaysHigh')->nodeValue;
-		$high = $this->moneyFormat($high);
+		$high = Bank::moneyFormat($high);
 
 		$low = $doc->getElementById('quotes_content_left__TodaysLow')->nodeValue;
-		$low = $this->moneyFormat($low);
+		$low = Bank::moneyFormat($low);
 
 		$percent = $doc->getElementById('quotes_content_left__PctChange')->nodeValue;
 		$percent = str_replace('%','',$percent);
-		$percent = $this->moneyFormat($percent);
+		$percent = Bank::moneyFormat($percent);
 		$signal  = '';
 		if($current < $open){
 			$signal = '-';
@@ -118,7 +105,7 @@ class StockExchange{
 
 		$span = $doc->getElementById('currency_converter_result')->getElementsByTagName('span')->item(0);
 		$valor = explode(' ',$span->nodeValue);
-		$valor = $this->moneyFormat($valor[0]);
+		$valor = Bank::moneyFormat($valor[0]);
 		$stock->setCurrent($valor);
 	}
 

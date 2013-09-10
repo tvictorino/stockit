@@ -1,6 +1,7 @@
 <?php
 
 require_once 'operation.php';
+require_once 'bank.php';
 
 
 abstract class Dealer {
@@ -27,16 +28,25 @@ abstract class Dealer {
 
 	static function deal(Operation $operation){
 		if(self::isAcceptable($operation)){
-			if($operation->getBuy){//se for comprar
-				$value = $operation->getValue()*$operation->getQtd();
+
+			if($operation->getBuy() == 1){//se for comprar
+				$value = str_replace(',',".",$operation->getValue());
+				$value = Bank::moneyFormat($value * $operation->getQtd());
+
+				echo "\n\n Valor: ".$operation->getValue();
+				echo "\n\n Quantidade: ".$operation->getQtd();
+
 				/*
 				 * @TODO Selecionar para ver que o usuario tem acoes dessa empresa, se tiver, soma a quantidade, senao, adicionar um registro novo.
 				 */
-				if($operation->getStock()->getStockExchangeId() == 1 ){//se for em dolar
-					Bank::debit($operation->getUser(),$value,1);
+				if(Bank::debit($operation->getUser(),$value,$operation->getStock()->getStockExchangeId())){
+
 				}else{
-					Bank::debit($operation->getUser(),$value,2);
+
 				}
+
+				//Em teoria iria dar baixa da quantidade de valores da empresa, mas isso eu nao vou fazer
+
 
 			}else{//Se for vender
 				$value = $operation->getValue()*$operation->getQtd();
