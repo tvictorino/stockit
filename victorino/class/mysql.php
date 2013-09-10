@@ -1,6 +1,6 @@
 <?php
 
-require_once 'config/general.php';
+require_once '../../config/general.php';
 
 class Mysql {
 

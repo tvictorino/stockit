@@ -1,0 +1,2 @@
+[10-Sep-2013 18:53:22 UTC] PHP Warning:  require_once(config/general.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 3
+[10-Sep-2013 18:53:22 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config/general.php' (include_path='.:/Users/tvictorino/pear/share/pear') in /Users/tvictorino/www/stockit/victorino/class/mysql.php on line 3
