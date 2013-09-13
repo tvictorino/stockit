@@ -11,6 +11,14 @@ header('Content-type: application/json');
 
 $cmd = @$_GET['cmd'];
 $send = null;
+$param = null;
+
+function returnError($msg){
+	die('{
+			"suc":"false",
+			"r":"'.$msg.'",
+	}');
+}
 
 if(!isset($cmd)){
 	echo '{
@@ -37,6 +45,10 @@ try{
 	 * Validando se o usuario existe
 	 */
 	//$u = new User($json['id']);
+	
+	if(count($json['param'])>0){
+		$param = $json['param'];	
+	}
 
 	switch ($json['name']) {
 		case 'getTabProfile':
@@ -49,7 +61,7 @@ try{
 				$dados['user']['rk'] = '100k';
 				$dados['user']['name'] = 'Teste Usuario';
 				$dados['user']['bio'] = 'Bla bla bla bla bla bla bl abla bla bla';
-				$send = json_encode($dados);
+				
 			break;
 			case 'getExchanges':
 				$dados['exchanges'][0]['name'] = 'Nasdaq';
@@ -61,7 +73,7 @@ try{
 				$dados['exchanges'][2]['name'] = 'Moeda';
 				$dados['exchanges'][2]['id'] = 2;
 				$dados['exchanges'][2]['currency'] = null;
-				$send = json_encode($dados);
+
 			break;
 			case 'getNasdaqStocks':
 				$dados['stocks'][0]['id'] = 1;
@@ -91,8 +103,6 @@ try{
 				$dados['stocks'][2]['low'] = '15,22';
 				$dados['stocks'][2]['percent'] = '3,0';
 
-
-				$send = json_encode($dados);
 			break;
 
 			case 'getBovespaStocks':
@@ -123,7 +133,6 @@ try{
 				$dados['stocks'][2]['low'] = '15,22';
 				$dados['stocks'][2]['percent'] = '3,0';
 
-				$send = json_encode($dados);
 			break;
 
 			case 'getCurrencyStocks':
@@ -145,28 +154,40 @@ try{
 				$dados['stocks'][1]['low'] = '1';
 				$dados['stocks'][1]['percent'] = '0,0';
 
-				$send = json_encode($dados);
+			break;
+			case 'getStock':
+				if($param === null){
+					returnError('Params is null');
+				}
+				else if(!isset($param['id'])){
+					returnError('Params passed is not ID');
+				}else{
+
+					$dados['stocks'][0]['id'] = 1;
+					$dados['stocks'][0]['name'] = 'Google Inc';
+					$dados['stocks'][0]['sigla'] = 'GOOG';
+					$dados['stocks'][0]['current'] = ''.rand(10, 15).',00';
+					$dados['stocks'][0]['open'] = ''.rand(10, 15).',00';
+					$dados['stocks'][0]['high'] = ''.rand(10, 15).',50';
+					$dados['stocks'][0]['low'] = ''.rand(10, 15).',00';
+					$dados['stocks'][0]['percent'] = ''.rand(1, 5).',0';					
+
+				}
+
+				
+
 			break;
 		
 		default:
-			echo '{
-				"suc":"false",
-				"r":"Invalid cmd name",
-			}';
-			die();
+			returnError("Invalid cmd name");
 			break;
 	}
-
-	echo $send;
+	echo json_encode($dados);
 	
 	
 
 }catch(Exeption $e){
-	echo '{
-		"suc":"false",
-		"r":"Invalid requisition",
-	}';
-	die();
+	returnError("Invalid requisition");
 }
 
 ?>
