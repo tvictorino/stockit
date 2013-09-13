@@ -58,7 +58,7 @@ try{
 				$send = json_encode($dados);
 			break;
 			case 'getNasdaqStocks':
-				$dados['stocks'][0]['id'] = '1';
+				$dados['stocks'][0]['id'] = 1;
 				$dados['stocks'][0]['name'] = 'Google Inc';
 				$dados['stocks'][0]['current'] = 'GOOG';
 				$dados['stocks'][0]['current'] = '12,00';
@@ -67,7 +67,7 @@ try{
 				$dados['stocks'][0]['low'] = '10,00';
 				$dados['stocks'][0]['percent'] = '1,0';
 
-				$dados['stocks'][1]['id'] = '1';
+				$dados['stocks'][1]['id'] = 2;
 				$dados['stocks'][1]['name'] = 'Appl Inc';
 				$dados['stocks'][1]['current'] = 'APPL';
 				$dados['stocks'][1]['current'] = '13,11';
@@ -76,7 +76,7 @@ try{
 				$dados['stocks'][1]['low'] = '113,11';
 				$dados['stocks'][1]['percent'] = '4,0';
 
-				$dados['stocks'][2]['id'] = '1';
+				$dados['stocks'][2]['id'] = 3;
 				$dados['stocks'][2]['name'] = 'Amazon Inc';
 				$dados['stocks'][2]['current'] = 'AMZN';
 				$dados['stocks'][2]['current'] = '14,22';
@@ -90,7 +90,7 @@ try{
 			break;
 
 			case 'getBovespaStocks':
-				$dados['stocks'][0]['id'] = '1';
+				$dados['stocks'][0]['id'] = 1;
 				$dados['stocks'][0]['name'] = 'Banco do Brasil';
 				$dados['stocks'][0]['current'] = 'BBB';
 				$dados['stocks'][0]['current'] = '12,00';
@@ -99,7 +99,7 @@ try{
 				$dados['stocks'][0]['low'] = '10,00';
 				$dados['stocks'][0]['percent'] = '1,0';
 
-				$dados['stocks'][1]['id'] = '1';
+				$dados['stocks'][1]['id'] = 2;
 				$dados['stocks'][1]['name'] = 'Petrobras';
 				$dados['stocks'][1]['current'] = 'PTR3';
 				$dados['stocks'][1]['current'] = '13,11';
@@ -108,7 +108,7 @@ try{
 				$dados['stocks'][1]['low'] = '113,11';
 				$dados['stocks'][1]['percent'] = '4,0';
 
-				$dados['stocks'][2]['id'] = '1';
+				$dados['stocks'][2]['id'] = 3;
 				$dados['stocks'][2]['name'] = 'Vale Inc';
 				$dados['stocks'][2]['current'] = 'VL03';
 				$dados['stocks'][2]['current'] = '14,22';
@@ -121,7 +121,7 @@ try{
 			break;
 
 			case 'getCurrencyStocks':
-				$dados['stocks'][0]['id'] = '1';
+				$dados['stocks'][0]['id'] = 1;
 				$dados['stocks'][0]['name'] = 'Dolar';
 				$dados['stocks'][0]['current'] = 'U$';
 				$dados['stocks'][0]['current'] = '2,20';
@@ -130,7 +130,7 @@ try{
 				$dados['stocks'][0]['low'] = '2,18';
 				$dados['stocks'][0]['percent'] = '5,0';
 
-				$dados['stocks'][1]['id'] = '1';
+				$dados['stocks'][1]['id'] = 2;
 				$dados['stocks'][1]['name'] = 'Real';
 				$dados['stocks'][1]['current'] = 'R$';
 				$dados['stocks'][1]['current'] = '1';
