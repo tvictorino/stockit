@@ -66,7 +66,7 @@ try{
 			case 'getNasdaqStocks':
 				$dados['stocks'][0]['id'] = 1;
 				$dados['stocks'][0]['name'] = 'Google Inc';
-				$dados['stocks'][0]['current'] = 'GOOG';
+				$dados['stocks'][0]['sigla'] = 'GOOG';
 				$dados['stocks'][0]['current'] = '12,00';
 				$dados['stocks'][0]['open'] = '11,00';
 				$dados['stocks'][0]['high'] = '12,50';
@@ -75,7 +75,7 @@ try{
 
 				$dados['stocks'][1]['id'] = 2;
 				$dados['stocks'][1]['name'] = 'Appl Inc';
-				$dados['stocks'][1]['current'] = 'APPL';
+				$dados['stocks'][1]['sigla'] = 'APPL';
 				$dados['stocks'][1]['current'] = '13,11';
 				$dados['stocks'][1]['open'] = '113,11';
 				$dados['stocks'][1]['high'] = '123,51';
@@ -84,7 +84,7 @@ try{
 
 				$dados['stocks'][2]['id'] = 3;
 				$dados['stocks'][2]['name'] = 'Amazon Inc';
-				$dados['stocks'][2]['current'] = 'AMZN';
+				$dados['stocks'][2]['sigla'] = 'AMZN';
 				$dados['stocks'][2]['current'] = '14,22';
 				$dados['stocks'][2]['open'] = '14,22';
 				$dados['stocks'][2]['high'] = '15,52';
@@ -98,7 +98,7 @@ try{
 			case 'getBovespaStocks':
 				$dados['stocks'][0]['id'] = 1;
 				$dados['stocks'][0]['name'] = 'Banco do Brasil';
-				$dados['stocks'][0]['current'] = 'BBB';
+				$dados['stocks'][0]['sigla'] = 'BBB';
 				$dados['stocks'][0]['current'] = '12,00';
 				$dados['stocks'][0]['open'] = '11,00';
 				$dados['stocks'][0]['high'] = '12,50';
@@ -107,7 +107,7 @@ try{
 
 				$dados['stocks'][1]['id'] = 2;
 				$dados['stocks'][1]['name'] = 'Petrobras';
-				$dados['stocks'][1]['current'] = 'PTR3';
+				$dados['stocks'][1]['sigla'] = 'PTR3';
 				$dados['stocks'][1]['current'] = '13,11';
 				$dados['stocks'][1]['open'] = '113,11';
 				$dados['stocks'][1]['high'] = '123,51';
@@ -116,7 +116,7 @@ try{
 
 				$dados['stocks'][2]['id'] = 3;
 				$dados['stocks'][2]['name'] = 'Vale Inc';
-				$dados['stocks'][2]['current'] = 'VL03';
+				$dados['stocks'][2]['sigla'] = 'VL03';
 				$dados['stocks'][2]['current'] = '14,22';
 				$dados['stocks'][2]['open'] = '14,22';
 				$dados['stocks'][2]['high'] = '15,52';
@@ -129,7 +129,7 @@ try{
 			case 'getCurrencyStocks':
 				$dados['stocks'][0]['id'] = 1;
 				$dados['stocks'][0]['name'] = 'Dolar';
-				$dados['stocks'][0]['current'] = 'U$';
+				$dados['stocks'][0]['sigla'] = 'U$';
 				$dados['stocks'][0]['current'] = '2,20';
 				$dados['stocks'][0]['open'] = '2,30';
 				$dados['stocks'][0]['high'] = '2,350';
@@ -138,7 +138,7 @@ try{
 
 				$dados['stocks'][1]['id'] = 2;
 				$dados['stocks'][1]['name'] = 'Real';
-				$dados['stocks'][1]['current'] = 'R$';
+				$dados['stocks'][1]['sigla'] = 'R$';
 				$dados['stocks'][1]['current'] = '1';
 				$dados['stocks'][1]['open'] = '1';
 				$dados['stocks'][1]['high'] = '1';
