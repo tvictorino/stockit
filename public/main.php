@@ -163,7 +163,7 @@ try{
 					returnError('Params passed is not ID');
 				}else{
 
-					$dados['stocks'][0]['id'] = 1;
+					$dados['stocks'][0]['id'] = $param['id'];
 					$dados['stocks'][0]['name'] = 'Google Inc';
 					$dados['stocks'][0]['sigla'] = 'GOOG';
 					$dados['stocks'][0]['current'] = ''.rand(10, 15).',00';
