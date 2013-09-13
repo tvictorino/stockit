@@ -60,7 +60,7 @@ try{
 				$dados['exchanges'][1]['currency'] = 'R$';
 				$dados['exchanges'][2]['name'] = 'Moeda';
 				$dados['exchanges'][2]['id'] = 2;
-				$dados['exchanges'][1]['currency'] = null;
+				$dados['exchanges'][2]['currency'] = null;
 				$send = json_encode($dados);
 			break;
 			case 'getNasdaqStocks':
