@@ -53,8 +53,11 @@ try{
 			break;
 			case 'getExchanges':
 				$dados['exchanges'][0]['name'] = 'Nasdaq';
+				$dados['exchanges'][0]['id'] = 0;
 				$dados['exchanges'][1]['name'] = 'Bovespa';
+				$dados['exchanges'][1]['id'] = 1;
 				$dados['exchanges'][2]['name'] = 'Moeda';
+				$dados['exchanges'][2]['id'] = 2;
 				$send = json_encode($dados);
 			break;
 			case 'getNasdaqStocks':
